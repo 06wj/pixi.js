@@ -17,7 +17,7 @@
  *     }
  * }
  *
- * myObject.update.add(listener);
+ * myObject.loaded.add(listener);
  *
  * myObject.loaded.emit();
  * ```
